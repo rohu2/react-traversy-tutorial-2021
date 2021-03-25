@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "Muesday 15th February",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Supermarket Foraging ",
+      "day": "next Sanday",
+      "reminder": false
+    }
+  ]
+}
